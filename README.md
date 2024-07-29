@@ -14,8 +14,7 @@ Possible Code Enhancements:
 
 - User Input Validation: Improve user input validation to handle unexpected or incorrect inputs more gracefully.
 - Game Expansion: Add features such as different difficulty levels, more complex maps, and additional challenges or hazards.
-
-Documentation: Increase the number of comments and add comprehensive documentation for better code understanding and maintenance.
+- Documentation: Increase the number of comments and add comprehensive documentation for better code understanding and maintenance.
 
 Challenging Code Pieces:
 
@@ -26,7 +25,7 @@ Transferable Skills:
 
 - Input Validation and Error Handling: Techniques for managing user inputs and ensuring robust error handling can be applied in various programming projects.
 - Game Development: Skills in designing game logic, user interactions, and creating engaging gameplay experiences are valuable in many software development areas.
-- Problem Solving: Developing algorithms for navigation, decision-making, and event handling enhanced my problem-solving abilities.
+- Problem-Solving: Developing algorithms for navigation, decision-making, and event handling enhanced my problem-solving abilities.
 
 Maintainability, Readability, and Adaptability:
 - Modular Code Structure: The code is organized into functions and classes, making it modular and easier to maintain.
